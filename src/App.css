@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  color: rgb(114, 114, 96);
+  font-family: Montserrat;
+  background-color: beige;
+  display: flex;
+  min-height: 1000px;
+}
+
+.App-header {
+  padding-left: 10%;
+  padding-top: 50px;
+  font-size: 10px;
+  background-color: beige;
+}

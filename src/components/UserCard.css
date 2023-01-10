@@ -1,0 +1,29 @@
+.user-card {
+    display: flex;
+    margin-bottom: 100px;
+    width: 700px;
+    background-color: rgb(114, 114, 96);
+    border: beige;
+    border-radius: 10px;
+    color: beige;
+}
+
+.user-card-anime-list {
+    width: 40%;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.user-card-info {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 30%;
+    float: left;
+}
+
+a {
+    color: rgb(255, 255, 255);
+  }
